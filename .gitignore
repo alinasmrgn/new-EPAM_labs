@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+*.db
+/target
+/bin
 
 # BlueJ files
 *.ctxt
